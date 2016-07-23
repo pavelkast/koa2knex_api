@@ -1,0 +1,13 @@
+{
+  "client": "mysql",
+  "connection": {
+    "database": "test",
+    "user": "admin",
+    "password": "admin",
+    "host": "localhost"
+  },
+  "pool": {
+    "max": 5,
+    "min": 0
+  }
+}
